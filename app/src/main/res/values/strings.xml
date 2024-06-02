@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HoliYay</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+    <string name="register">Mendaftar</string>
+    <string name="nickname">Nickname</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="destination_image">destinationImage</string>
+    <string name="text_judul"><font fgcolor="#0000FF">Holi</font><font fgcolor="#FFA500">Yay</font></string>
+    <string name="add_to_favorites">Favorite\n</string>
+    <string name="muat_ulang">Muat Ulang</string>
+    <string name="text_check">Periksa Sambungan Internet Anda, lalu muat ulang halaman ini</string>
+    <string name="text_offline">Apakah Anda Offline?</string>
+    <string name="text_belumpunyaakun">Belum punya akun?</string>
+    <string name="retry">Retry</string>
+</resources>

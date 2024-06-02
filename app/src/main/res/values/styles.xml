@@ -1,0 +1,13 @@
+<!-- styles.xml -->
+<resources>
+    <style name="EditTextHintWhite">
+        <item name="android:textColorHint">@color/white</item>
+    </style>
+    <style name="CustomEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/edittext_underline</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CornerFamily.Rounded" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+</resources>
